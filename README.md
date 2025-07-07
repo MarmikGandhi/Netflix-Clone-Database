@@ -95,9 +95,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♀️ Author
 
-Developed by [Your Name].  
+Developed by [Marmik Gandhi]
 Feel free to connect:  
-📧 your.email@example.com  
+📧 marmikgandhi@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🐙 [GitHub](https://github.com/your-username)
 
