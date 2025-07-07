@@ -97,9 +97,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Developed by [Marmik Gandhi]
 Feel free to connect:  
-📧 marmikgandhi@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/your-username)
+- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
+- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- LinkedIn: [marmik-gandhi]([https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
 ---
 
